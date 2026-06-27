@@ -116,7 +116,6 @@ SalesBIProject
 ├── etl/                  # Chương trình ETL
 ├── sql/                  # Script SQL
 ├── powerbi/              # File Power BI
-├── requirements.txt
 └── README.md
 ```
 
